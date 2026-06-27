@@ -88,7 +88,6 @@ def plot_sample_grid(X, y):
 
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/120px-TensorFlowLogo.svg.png", width=80)
     st.title("Fashion MNIST")
     st.caption("Datatón 3 – Applied Machine Learning")
     st.divider()
