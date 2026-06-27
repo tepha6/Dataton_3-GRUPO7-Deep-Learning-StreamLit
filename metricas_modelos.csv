@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision (macro),Recall (macro),F1-Score (macro)
+MLP Baseline,0.8863,0.8857,0.8863,0.8853
+CNN Base,0.9053,0.9059,0.9053,0.9044
+CNN + Regularización,0.872,0.8838,0.872,0.8747
